@@ -6,33 +6,40 @@
 
 ## Как это работает
 
-### 1. Выгрузите всё из головы
-
-Добавляйте дела в «Хаос» быстро и без предварительной сортировки.
-
-![Хаос — быстрый сбор задач](media/screenshots/01-chaos.png)
-
-### 2. Принимайте одно решение за раз
-
-«Сито» показывает одну задачу и помогает решить, что делать с ней дальше: перенести на сегодня, неделю, когда-нибудь или отложить решение.
-
-![Сито — решение по одной задаче](media/screenshots/02-sieve.png)
-
-### 3. Планируйте с удобной точностью
-
-В «Пирамиде» можно выбрать подходящий горизонт: день, неделю, месяц, квартал, год или «Когда-нибудь».
-
-![Пирамида — планирование на месяц](media/screenshots/03-pyramid-month.png)
-
-![Пирамида — горизонт Когда-нибудь](media/screenshots/04-pyramid-someday.png)
-
-### 4. Соберите спокойный план дня
-
-Назначайте точное время только тем задачам, которым оно действительно нужно.
-
-![День — запланированные задачи](media/screenshots/05-day-planned.png)
-
-![День — выполненные задачи](media/screenshots/06-day-completed.png)
+<table>
+  <thead>
+    <tr>
+      <th align="center">Сначала просто<br>выгрузи всё</th>
+      <th align="center">Разбирай задачи<br>по одной</th>
+      <th align="center">Выбери горизонт<br>планирования</th>
+      <th align="center">Собери спокойный<br>план дня</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="25%" align="center">
+        <img src="media/screenshots/01-chaos.png"
+             alt="Хаос — быстрый сбор задач"
+             width="100%">
+      </td>
+      <td width="25%" align="center">
+        <img src="media/screenshots/02-sieve.png"
+             alt="Сито — решение по одной задаче"
+             width="100%">
+      </td>
+      <td width="25%" align="center">
+        <img src="media/screenshots/03-pyramid-month.png"
+             alt="Пирамида — выбор горизонта планирования"
+             width="100%">
+      </td>
+      <td width="25%" align="center">
+        <img src="media/screenshots/05-day-planned.png"
+             alt="День — задачи на сегодня"
+             width="100%">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Короткая демонстрация
 
