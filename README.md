@@ -16,7 +16,6 @@
 
 [Посмотреть SHA256SUMS.txt](https://github.com/NoveltiL/haospomestam-releases/releases/download/v1.0.0-beta.1%2B38/SHA256SUMS.txt)
 
-> До публикации текущего Draft Release ссылки на APK и контрольную сумму могут возвращать ошибку `404`. После публикации они станут доступны по этим же адресам.
 
 ## Как это работает
 
